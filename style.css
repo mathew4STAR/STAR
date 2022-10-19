@@ -87,6 +87,7 @@ ul.logo {
 }
 
 .second {
+    font-size: xx-large;
     transition: 0.8s;
     opacity: 0;
 }
